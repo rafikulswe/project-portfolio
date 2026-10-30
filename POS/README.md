@@ -1,3 +1,5 @@
+[← Back to Portfolio](../README.md)
+
 # POS — HealthPlus Pharmacy (Point of Sale & Retail Management)
 
 ## Screenshots

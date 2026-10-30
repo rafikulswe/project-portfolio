@@ -10,6 +10,19 @@
 
 ---
 
+## Featured Projects
+
+Click a project name to open its detailed case study with screenshots.
+
+| Project | Domain | Tech Stack | Live Link |
+|---|---|---|---|
+| [**SCM-ERP (BTEL ERP)**](./SCM-ERP/README.md) | ERP, Supply Chain, Inventory, Procurement | Laravel API, React.js, Micro-service, PostgreSQL | Internally deployed, confidential |
+| [**POS (HealthPlus Pharmacy)**](./POS/README.md) | POS, Retail, Pharmacy, Accounting | Laravel, React.js, SQL | Internally deployed, confidential |
+| [**Sudokhsho LMS**](./Sudokhsho-LMS/README.md) | LMS, Education | PHP/Laravel, JavaScript | [sudoksho.com](https://sudoksho.com/) |
+| [**MPA Website**](./MPA-Website/README.md) | Architecture portfolio website | Laravel, Inertia.js, React.js | [mparc.xyz](https://mparc.xyz/) |
+
+---
+
 ## 1. Professional Summary
 
 Md. Rafikul Islam is a Senior Software Engineer with 8+ years of professional experience in designing, developing, enhancing, and maintaining web-based software applications.

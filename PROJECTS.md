@@ -1,6 +1,6 @@
 # Project Index
 
-Main profile: [developer_capability_project_portfolio.md](./developer_capability_project_portfolio.md) — Md. Rafikul Islam, Senior Software Engineer (Laravel, React.js, PostgreSQL/MySQL).
+Main profile: [README.md](./README.md) — Md. Rafikul Islam, Senior Software Engineer (Laravel, React.js, PostgreSQL/MySQL).
 
 ## Projects
 
